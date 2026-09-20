@@ -1,0 +1,6 @@
+{
+  "name": "CS Study Hub",
+  "description": "Interactive computer science learning platform with a live code playground, DSA lecture notes & slides viewer, semester GPA calculator, core CS subject roadmaps, curated by Asad Usman (CS Expert).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
